@@ -1,4 +1,4 @@
-# Magent Tenting Puck for split keyboards
+# Magnet Tenting Puck for split keyboards
 
 Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [splitkb.com](https://splitkb.com).
 
@@ -25,7 +25,7 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
 ## How-To: with magnets
 
 1. Required parts
-   - [Tenting Puck top](3d-printing/TP-SLA-Top.step) x 4
+   - [Tenting Puck Top](3d-printing/TP-SLA-Top.step) x 4
    - [Tenting Puck Mount](3d-printing/TP-SLA-Mount.step) x 2
    - Magnets
      - 16mm x 2 mm x 4 (15mm is OK)
