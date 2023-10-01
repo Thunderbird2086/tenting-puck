@@ -47,7 +47,7 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
    1. Align screw holes from Mount and one of Tenting Tops.
    1. Insert M2 screws from Tenting Mount and screw it.
    1. Install it to any camera tri-pod.
-1. Atttch one of Tenting Tops to your kenboard case with M2 screws.
+1. Attach one of Tenting Tops to your kenboard case with M2 screws.
    ![Magnet Tenting Puck](imgs/magnet-tenting-puck.png)
 1. Enjoy!
 
