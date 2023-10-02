@@ -20,6 +20,7 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
    1. Insert M2 screws from your keyboard case and screw it.
    1. Install it to any camera tri-pod.
    ![Tenting Puck](imgs/tenting-puck-without-magnets.png)
+   ![Tenting Puck Section View](imgs/tenting-puck-mount-section-view.png)
 1. Enjoy!
 
 ## How-To: with magnets
@@ -49,6 +50,7 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
    1. Install it to any camera tri-pod.
 1. Attach one of Tenting Tops to your kenboard case with M2 screws.
    ![Magnet Tenting Puck](imgs/magnet-tenting-puck.png)
+   ![Tenting Puck Section View](imgs/magnet-tenting-puck-section-view.png)
 1. Enjoy!
 
 ## Tenting Puck Mount
