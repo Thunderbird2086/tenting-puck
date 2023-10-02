@@ -8,10 +8,10 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
    - [Tenting Puck Mount](3d-printing/TP-SLA-Mount.step) x 2
    - Screw:
      - Keyboard case : make sure to choose M2 screw with enough length.  
-       Consider to add 2mm to thickness of your case. 
+       Consider to add 3mm to thickness of your case. 
    - Nuts:
      - M2 flat hex nut (thin) x 8
-     - 1/4 flat hex nut x 2
+     - 1/4-20 UNC flat hex nut x 2
 1. Print Tenting Puck Mounts.  Resin printing is recommended.
 1. Tenting Puck Mount
    1. Place 1/4 nut into the hole.
@@ -32,12 +32,12 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
      - 16mm x 2 mm x 4 (15mm is OK)
      - 13mm x 2 mm x 16 (optional, 12mm is OK)
    - Screw:
-     - tenting parts : M2 x 5mm x 8
+     - tenting parts : M2 x 6mm x 8
      - Keyboard case : make sure to choose M2 screw with enough length.  
        Consider to add 2mm to thickness of your case. 
    - Nuts:
      - M2 flat hex nut (thin) x 16
-     - 1/4 flat hex nut x 2
+     - 1/4-20 UNC flat hex nut x 2
 1. Print Tenting Puck Tops and Mounts.  Resin printing is recommended.
 1. Tenting Puck Top
    1. Insert magnets into holes on Tenting Puck Top
