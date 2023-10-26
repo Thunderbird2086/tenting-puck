@@ -32,7 +32,7 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
      - 16mm x 2 mm x 4 (15mm is OK)
      - 13mm x 2 mm x 16 (optional, 12mm is OK)
    - Screw:
-     - tenting parts : M2 x 6mm x 8
+     - tenting parts : M2 x 8mm x 8
      - Keyboard case : make sure to choose M2 screw with enough length.  
        Consider to add 2mm to thickness of your case. 
    - Nuts:
