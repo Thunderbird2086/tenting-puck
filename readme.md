@@ -26,11 +26,12 @@ Inspired by [tenting puck](https://splitkb.com/products/tenting-puck) from [spli
 ## How-To: with magnets
 
 1. Required parts
-   - [Tenting Puck Top](3d-printing/TP-SLA-Top.step) x 4
+   - [Tenting Puck Top v1](3d-printing/TP-SLA-Top-16x2-13x2.step) x 4
+     - Magnets
+       - 16mm x 2 mm x 4
+       - 13mm x 2 mm x 16 (optional)
+     - [Tenting Puck Top v2](3d-printing/TP-SLA-Top-15x2-12x2.step) uses smallier magenets: 15mm and 12mm
    - [Tenting Puck Mount](3d-printing/TP-SLA-Mount.step) x 2
-   - Magnets
-     - 16mm x 2 mm x 4 (15mm is OK)
-     - 13mm x 2 mm x 16 (optional, 12mm is OK)
    - Screw:
      - tenting parts : M2 x 8mm x 8
      - Keyboard case : make sure to choose M2 screw with enough length.  
